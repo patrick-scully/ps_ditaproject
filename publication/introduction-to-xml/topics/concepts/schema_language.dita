@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_j2v_dn5_njb">
+    <title>What is a schema language</title>
+    <shortdesc>An XML schema is a description of a type of <term>XML</term> document, typically expressed in terms of constraints on the structure and content of documents</shortdesc>
+    <conbody>
+        <section>
+            <title>XML Schema</title>
+            <p>
+                These constraints are generally expressed using some combination of grammatical rules governing the order of elements, Boolean predicates that the content must satisfy, data types governing the content of elements and attributes, and more specialized rules such as uniqueness and referential integrity constraints.
+                
+                There are languages developed specifically to express <term>XML</term> schemas. The document type definition (DTD) language, which is native to the XML specification, is a schema language that is of relatively limited capability, but that also has other uses in XML aside from the expression of schemas. Two more expressive XML schema languages in widespread use are XML Schema (with a capital S) and RELAX NG.
+                
+                The mechanism for associating an XML document with a schema varies according to the schema language. The association may be achieved via markup within the XML document itself, or via some external means.
+            </p>
+            <sectiondiv>
+            <image align="center"   width="500"  href="/Users/patscully/Dropbox/Current%20Working%20Clients/Information%20Designs%20%26%20Development/workspace/publication/introduction-to-xml/resources/images/schema_language.jpg"></image>
+            </sectiondiv>
+            
+        </section>
+        <section>
+            <title>Validation</title>
+            <p>The process of checking to see if a XML document conforms to a schema is called validation, which is separate from <term>XML's</term> core concept of syntactic well-formedness. All XML documents must be well-formed, but it is not required that a document be valid unless the XML parser is "validating", in which case the document is also checked for conformance with its associated schema. DTD-validating parsers are most common, but some support XML Schema or RELAX NG as well.
+                
+                Validation of an instance document against a schema can be regarded as a conceptually separate operation from XML parsing. In practice, however, many schema validators are integrated with an XML parser.
+            </p>
+        </section>
+        <section>
+            <title>Languages</title>
+            <p>There are several different languages available for specifying an <term>XML</term> schema. Each language has its strengths and weaknesses.
+                The primary purpose of a schema language is to specify what the structure of an XML document can be. This means which elements can reside in which other elements, which attributes are and are not legal to have on a particular element, and so forth. A schema is analogous to a grammar for a language; a schema defines what the vocabulary for the language may be and what a valid "sentence" is.
+            </p>
+         
+        </section>
+     
+        
+    </conbody>
+    <related-links >
+        <link href="https://schema.org/Language" format="html" scope="external"></link>
+        <link href="https://www.sciencedirect.com/topics/computer-science/schema-language" format="html" scope="external"></link>
+    </related-links>
+</concept>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Introduction to XML</title>
+    <topicref href="topics/concepts/markup_language.dita">
+        <topicref href="topics/references/different_markups.dita">
+            <topicref href="topics/concepts/what_is_html.dita">
+                <topicref href="topics/references/html_elements.dita"/>
+            </topicref>
+            <topicref href="topics/concepts/what_is_xml.dita">
+                <topicref href="topics/concepts/schema_language.dita">
+                    <topicref href="topics/concepts/dtd.dita"/>
+                </topicref>
+                <topicref href="topics/concepts/oxygen_editor.dita">
+                    <topicref href="topics/tasks/dtd_oxygen.dita"/>
+                </topicref>
+            </topicref>
+        </topicref>
+    </topicref>
+</map>

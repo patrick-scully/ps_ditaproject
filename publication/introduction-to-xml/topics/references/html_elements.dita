@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_o1x_cm5_njb">
+    <title>Elements of HTML</title>
+    <shortdesc>The following is a list of the basic elements of HTML</shortdesc>
+   
+    <refbody>
+        
+        <table>
+            <tgroup cols="2">
+                <thead>
+                    <row rowsep="1">
+                        <entry colsep="1">Element</entry>
+                        <entry colsep="1">Definition</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row rowsep="1">
+                        <entry colsep="1">&lt;base&gt;</entry>
+                        <entry colsep="1">The HTML &lt;base&gt; element specifies the base URL to use for all relative URLs in a document.</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">&lt;head&gt;</entry>
+                        <entry colsep="1">The HTML &lt;head&gt; element contains machine-readable information (metadata) about the document, like its title, scripts, and style sheets.</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">&lt;link&gt;</entry>
+                        <entry colsep="1">The HTML External Resource Link element &lt;link&gt; specifies relationships between the current document and an external resource. This element is most commonly used to link to stylesheets, but is also used to establish site icons (both "favicon" style icons and icons for the home screen and apps on mobile devices) among other things.</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">&lt;meta&gt;</entry>
+                        <entry colsep="1">The HTML &lt;meta&gt; element represents metadata that cannot be represented by other HTML meta-related elements, like &lt;base&gt;, &lt;link&gt;, &lt;script&gt;, &lt;style&gt; or &lt;title&gt;.</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">&lt;style&gt;</entry>
+                        <entry colsep="1">The HTML &lt;style&gt; element contains style information for a document, or part of a document.</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">&lt;title&gt;</entry>
+                        <entry colsep="1">The HTML Title element &lt;title&gt; defines the document's title that is shown in a browser's title bar or a page's tab.</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">&lt;body&gt;</entry>
+                        <entry colsep="1">The HTML &lt;body&gt; Element represents the content of an HTML document. There can be only one &lt;body&gt; element in a document.</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        
+    </refbody>
+    <related-links >
+        <link href="https://www.learn-html.org/en/Basic_Elements" format="html" scope="external"></link>
+        <link href="https://www.w3schools.com/html/html_elements.asp" format="html" scope="external"></link>
+    </related-links>
+</reference>

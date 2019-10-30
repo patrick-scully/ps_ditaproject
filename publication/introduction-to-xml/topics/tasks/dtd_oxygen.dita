@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN" "generalTask.dtd">
+<task id="task_k4j_555_njb">
+    <title>Creating Schema Languages in Oxygen</title>
+    <shortdesc>Follow these steps to create a DTD schema language in Oxygen XML Editor</shortdesc>
+    
+    <taskbody>
+        <prereq>You must have a licensed version of Oxygen XML editor to complete this task</prereq>
+        <context>
+            <p>XML, which stands for Extensible Markup Language, is a markup language that is designed to carry data. An XML DTD, or document type definition, is used to define your XML document's structure with a list of legal elements. In creating a DTD, you are creating rules that govern your XML file structure. Knowing how to create an XML DTD will ensure your XML file validity and proper functioning.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>
+                    Purchase Oxygen XML editing software program.</cmd>
+            </step>
+            <step>
+                <cmd>
+                    
+                    Install your DTD editor.</cmd>
+            </step>
+            <step>
+                <cmd>
+                    
+                    
+                    Restart your computer, if necessary.</cmd>
+            </step>
+            <step>
+                <cmd>
+                    
+                    
+                    
+                    Familiarize yourself with your DTD editor's workspace, as well as with any user guides or support materials that accompany your DTD editor.</cmd>
+            </step>
+            <step>
+                <cmd>
+                    
+                    Create a new project that will contain the DTD.  </cmd>
+                <info>
+                    <image align="center"  scalefit="yes"  href="/Users/patscully/Dropbox/Current%20Working%20Clients/Information%20Designs%20%26%20Development/workspace/publication/introduction-to-xml/resources/images/new_project.jpg"></image>
+                </info>
+                
+            </step>
+            
+            <step>
+                <cmd>
+                    Save your file. </cmd>
+                <info>The file name must end with ".dtd."</info>
+                <info>
+                    <image align="center"  scalefit="yes"  href="/Users/patscully/Dropbox/Current%20Working%20Clients/Information%20Designs%20%26%20Development/workspace/publication/introduction-to-xml/resources/images/save_project.jpg"></image>
+                </info>
+            </step>
+            <step>
+                <cmd>
+                    Declare elements with an element declaration. </cmd>
+                <info>Elements are the building blocks of your XML document.</info>
+            </step>
+            <step>
+                <cmd>Declare attributes with an attribute declaration. Attributes provide additional information about the elements in your XML document.</cmd>
+                <info>
+                    <image align="center"   width="500"  href="/Users/patscully/Dropbox/Current%20Working%20Clients/Information%20Designs%20%26%20Development/workspace/publication/introduction-to-xml/resources/images/declare_attributes.jpg"></image>
+                </info>
+            </step>
+            <step>
+                <cmd>Add entities where necessary.</cmd>
+                
+            </step>
+            <step>
+                <cmd>
+                    Add notations and comments as necessary.
+             
+                </cmd>
+              
+            </step>
+            <step>
+                <cmd>Check for errors by reviewing your work thoroughly.</cmd>
+            </step>
+            <step>
+                <cmd>Correct any errors you identify.</cmd>
+            </step>
+            <step>
+                <cmd>Save your work.</cmd>
+            </step>
+            <step>
+                <cmd>
+                    Validate your XML DTD using Oxygen editor's validation tool.</cmd>
+            </step>
+            <step>
+                <cmd>Correct any errors detected during validation.</cmd>
+            </step>
+            <step>
+                <cmd>
+                    Save your work.</cmd>
+            </step>
+            <step>
+                <cmd>Open the XML file for which you have created the DTD.</cmd>
+            </step>
+            <step>
+                <cmd>
+                    If the DTD is internal, declare so using the proper syntax.</cmd>
+            </step>
+            <step>
+                <cmd>If the DTD is external, declare so using the proper syntax.</cmd>
+            </step>
+            <step>
+                <cmd>Save your XML file.</cmd>
+            </step>
+        </steps>
+        
+    </taskbody>
+   
+    
+</task>

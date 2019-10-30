@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_ckh_lg5_njb">
+    <title>Different markup languages</title>
+    <shortdesc>This is a list of some different markup languages</shortdesc>
+    <refbody>
+        <table>
+            <tgroup cols="2">
+                <thead>
+                    <row rowsep="1">
+                        <entry colsep="1">Language</entry>
+                        <entry>Description</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row rowsep="1">
+                        <entry colsep="1">BNML</entry>
+                        <entry colsep="1">Business Narrative Markup Language</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">BPML</entry>
+                        <entry colsep="1">Business Process Modeling Language</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">BulletML</entry>
+                        <entry colsep="1">Discription</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">CFML</entry>
+                        <entry colsep="1">ColdFusion Markup Language</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">Emotion Markup Language</entry>
+                        <entry colsep="1">Discription</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">FpML</entry>
+                        <entry colsep="1">Financial Product Markup Language</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">FountainL</entry>
+                        <entry colsep="1">Decription</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">GolfML</entry>
+                        <entry colsep="1">Decription</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">InkML</entry>
+                        <entry colsep="1">Decription</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">Meta Content Framework</entry>
+                        <entry colsep="1">Decription</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">OBML</entry>
+                        <entry colsep="1">Opera Binary Markup Language</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">Parameter Value Language</entry>
+                        <entry colsep="1">Description</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">Serializations of RDF</entry>
+                        <entry colsep="1">Resource Description Framework</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">SMIL</entry>
+                        <entry colsep="1">Synchronized Multimedia Integration Language</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">SBML</entry>
+                        <entry colsep="1">Systems Biology Markup Language</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">SML </entry>
+                        <entry colsep="1">Spacecraft Markup Language</entry>
+                    </row>
+                    <row rowsep="1">
+                        <entry colsep="1">VoiceXML</entry>
+                        <entry colsep="1">Description</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+       
+    </refbody>
+    <related-links >
+        <link href="https://techterms.com/definition/markup_language" format="html" scope="external"></link>
+        <link href="https://en.wikipedia.org/wiki/Markup_language" format="html" scope="external"></link>
+    </related-links>
+</reference>
