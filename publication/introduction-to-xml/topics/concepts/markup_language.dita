@@ -6,9 +6,8 @@
     <conbody>
      
             
-            <image align="center"  width="500" href="/Users/patscully/Dropbox/Current%20Working%20Clients/Information%20Designs%20%26%20Development/workspace/publication/introduction-to-xml/resources/images/oxygen_screen.jpg"></image>
-            
-            
+        <image align="center"  width="500" href="../../resources/images/oxygen_screen.jpg"></image>
+        
         
         <p>The idea and terminology of markup languages evolved from the "marking up" of paper manuscripts (i.e., the revision instructions by editors), which is traditionally written with a red or blue pencil on authors' manuscripts.[2] In digital media, this "blue pencil instruction text" was replaced by tags, which indicate what the parts of the document are, rather than details of how they might be shown on some display. This lets authors avoid formatting every instance of the same kind of thing redundantly (and possibly inconsistently). It also avoids the specification of fonts and dimensions which may not apply to many users (such as those with different-size displays, impaired vision and screen-reading software).
             Early markup systems typically included typesetting instructions, as troff, TeX and LaTeX do, while Scribe and most modern markup systems name components, and later process those names to apply formatting or other processing, as in the case of XML.

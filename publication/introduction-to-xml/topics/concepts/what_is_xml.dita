@@ -8,7 +8,7 @@
             The design goals of <term>XML</term> emphasize simplicity, generality, and usability across the Internet.[6] It is a textual data format with strong support via Unicode for different human languages. Although the design of XML focuses on documents, the language is widely used for the representation of arbitrary data structures[7] such as those used in web services.
             Several schema systems exist to aid in the definition of XML-based languages, while programmers have developed many application programming interfaces (APIs) to aid the processing of XML data.
         </p>
-            <image align="center"  width="500"  href="/Users/patscully/Dropbox/Current%20Working%20Clients/Information%20Designs%20%26%20Development/workspace/publication/introduction-to-xml/resources/images/XML.jpeg"></image>
+        <image align="center"  width="500"  href="../../resources/images/XML.jpeg"></image>
             
        
         <section>

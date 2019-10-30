@@ -6,6 +6,10 @@
             <serialized version="21.1" xml:space="preserve">
                 <serializableOrderedMap>
                     <entry>
+                        <String>enable.project.master.files.support</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                    <entry>
                         <String>keys.context</String>
                         <String>${pdu}/introduction-to-xml.ditamap</String>
                     </entry>
@@ -14,6 +18,9 @@
         </options>
     </meta>
     <projectTree name="introduction-to-xml.xpr">
+        <folder masterFiles="true" name="Master Files">
+            <file name="introduction-to-xml.ditamap"/>
+        </folder>
         <folder path="."/>
     </projectTree>
 </project>

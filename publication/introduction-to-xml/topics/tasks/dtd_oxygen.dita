@@ -37,7 +37,7 @@
                     
                     Create a new project that will contain the DTD.  </cmd>
                 <info>
-                    <image align="center"  scalefit="yes"  href="/Users/patscully/Dropbox/Current%20Working%20Clients/Information%20Designs%20%26%20Development/workspace/publication/introduction-to-xml/resources/images/new_project.jpg"></image>
+                    <image align="center"  scalefit="yes"  href="../../resources/images/new_project.jpg"></image>
                 </info>
                 
             </step>
@@ -47,7 +47,7 @@
                     Save your file. </cmd>
                 <info>The file name must end with ".dtd."</info>
                 <info>
-                    <image align="center"  scalefit="yes"  href="/Users/patscully/Dropbox/Current%20Working%20Clients/Information%20Designs%20%26%20Development/workspace/publication/introduction-to-xml/resources/images/save_project.jpg"></image>
+                    <image align="center"  scalefit="yes"  href="../../resources/images/save_project.jpg"></image>
                 </info>
             </step>
             <step>
@@ -58,7 +58,7 @@
             <step>
                 <cmd>Declare attributes with an attribute declaration. Attributes provide additional information about the elements in your XML document.</cmd>
                 <info>
-                    <image align="center"   width="500"  href="/Users/patscully/Dropbox/Current%20Working%20Clients/Information%20Designs%20%26%20Development/workspace/publication/introduction-to-xml/resources/images/declare_attributes.jpg"></image>
+                    <image align="center"   width="500"  href="../../resources/images/declare_attributes.jpg"></image>
                 </info>
             </step>
             <step>
