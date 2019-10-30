@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="markup_language" path="topics/concepts/markup_language.html"/>
+   <appContext helpID="reference_ckh_lg5_njb"
+               path="topics/references/different_markups.html"/>
+   <appContext helpID="concept_mfw_gk5_njb" path="topics/concepts/what_is_html.html"/>
+   <appContext helpID="reference_o1x_cm5_njb"
+               path="topics/references/html_elements.html"/>
+   <appContext helpID="what_is_xml" path="topics/concepts/what_is_xml.html"/>
+   <appContext helpID="concept_j2v_dn5_njb"
+               path="topics/concepts/schema_language.html"/>
+   <appContext helpID="concept_und_ht5_njb" path="topics/concepts/dtd.html"/>
+   <appContext helpID="concept_p54_155_njb" path="topics/concepts/oxygen_editor.html"/>
+   <appContext helpID="task_k4j_555_njb" path="topics/tasks/dtd_oxygen.html"/>
+</map>

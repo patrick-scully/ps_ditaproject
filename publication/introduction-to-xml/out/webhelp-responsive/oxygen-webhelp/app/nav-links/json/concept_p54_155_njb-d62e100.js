@@ -1,0 +1,1 @@
+define({"topics" : [{"title":"Creating Schema Languages in Oxygen","shortdesc":"<p class=\"shortdesc\">Follow these steps to create a DTD schema language in Oxygen XML Editor</p>","href":"topics\/tasks\/dtd_oxygen.html","attributes": {"data-id":"task_k4j_555_njb",},"menu": {"hasChildren":false,},"tocID":"task_k4j_555_njb-d62e114","topics":[]}]});

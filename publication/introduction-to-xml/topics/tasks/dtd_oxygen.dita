@@ -37,7 +37,7 @@
                     
                     Create a new project that will contain the DTD.  </cmd>
                 <info>
-                    <image align="center"  scalefit="yes"  href="../../resources/images/new_project.jpg"></image>
+                    <image align="center"  width="500"  href="../../resources/images/new_project.jpg"></image>
                 </info>
                 
             </step>
@@ -47,7 +47,7 @@
                     Save your file. </cmd>
                 <info>The file name must end with ".dtd."</info>
                 <info>
-                    <image align="center"  scalefit="yes"  href="../../resources/images/save_project.jpg"></image>
+                    <image align="center"  width="500"  href="../../resources/images/save_project.jpg"></image>
                 </info>
             </step>
             <step>

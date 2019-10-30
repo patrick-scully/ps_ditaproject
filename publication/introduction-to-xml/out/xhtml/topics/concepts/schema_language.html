@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+<meta name="copyright" content="(C) Copyright 2019" />
+<meta name="DC.rights.owner" content="(C) Copyright 2019" />
+<meta name="DC.type" content="concept" />
+<meta name="DC.title" content="What is a schema language" />
+<meta name="abstract" content="An XML schema is a description of a type of XML document, typically expressed in terms of constraints on the structure and content of documents" />
+<meta name="description" content="An XML schema is a description of a type of XML document, typically expressed in terms of constraints on the structure and content of documents" />
+<meta name="DC.relation" scheme="URI" content="../../topics/concepts/what_is_xml.html" />
+<meta name="DC.relation" scheme="URI" content="../../topics/concepts/dtd.html" />
+<meta name="DC.relation" scheme="URI" content="https://schema.org/Language" />
+<meta name="DC.relation" scheme="URI" content="https://www.sciencedirect.com/topics/computer-science/schema-language" />
+<meta name="DC.format" content="XHTML" />
+<meta name="DC.identifier" content="concept_j2v_dn5_njb" />
+<link rel="stylesheet" type="text/css" href="../../commonltr.css" />
+<title>What is a schema language</title>
+</head>
+<body id="concept_j2v_dn5_njb">
+
+    <h1 class="title topictitle1" id="ariaid-title1">What is a schema language</h1>
+
+    
+    <div class="body conbody"><p class="shortdesc">An XML schema is a description of a type of <dfn class="term">XML</dfn> document, typically expressed in terms of constraints on the structure and content of documents</p>
+
+        <div class="section"><h2 class="title sectiontitle">XML Schema</h2>
+            
+            <p class="p">
+                These constraints are generally expressed using some combination of grammatical rules governing the order of elements, Boolean predicates that the content must satisfy, data types governing the content of elements and attributes, and more specialized rules such as uniqueness and referential integrity constraints.
+                
+                There are languages developed specifically to express <dfn class="term">XML</dfn> schemas. The document type definition (DTD) language, which is native to the XML specification, is a schema language that is of relatively limited capability, but that also has other uses in XML aside from the expression of schemas. Two more expressive XML schema languages in widespread use are XML Schema (with a capital S) and RELAX NG.
+                
+                The mechanism for associating an XML document with a schema varies according to the schema language. The association may be achieved via markup within the XML document itself, or via some external means.
+            </p>
+
+            <div class="sectiondiv">
+                <img class="image" width="500" src="../../resources/images/schema_language.jpg" />
+            </div>
+            
+        </div>
+
+        <div class="section"><h2 class="title sectiontitle">Validation</h2>
+            
+            <p class="p">The process of checking to see if a XML document conforms to a schema is called validation, which is separate from <dfn class="term">XML's</dfn> core concept of syntactic well-formedness. All XML documents must be well-formed, but it is not required that a document be valid unless the XML parser is "validating", in which case the document is also checked for conformance with its associated schema. DTD-validating parsers are most common, but some support XML Schema or RELAX NG as well.
+                
+                Validation of an instance document against a schema can be regarded as a conceptually separate operation from XML parsing. In practice, however, many schema validators are integrated with an XML parser.
+            </p>
+
+        </div>
+
+        <div class="section"><h2 class="title sectiontitle">Languages</h2>
+            
+            <p class="p">There are several different languages available for specifying an <dfn class="term">XML</dfn> schema. Each language has its strengths and weaknesses.
+                The primary purpose of a schema language is to specify what the structure of an XML document can be. This means which elements can reside in which other elements, which attributes are and are not legal to have on a particular element, and so forth. A schema is analogous to a grammar for a language; a schema defines what the vocabulary for the language may be and what a valid "sentence" is.
+            </p>
+
+         
+        </div>
+
+     
+        
+    </div>
+
+    <div class="related-links">
+<ul class="ullinks">
+<li class="link ulchildlink"><strong><a href="../../topics/concepts/dtd.html">What is DTD</a></strong><br />
+A document type definition <dfn class="term">DTD</dfn> is a set of markup declarations that define a document type for a SGML-family markup language </li>
+</ul>
+
+<div class="familylinks">
+<div class="parentlink"><strong>Parent topic:</strong> <a class="link" href="../../topics/concepts/what_is_xml.html" title="Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.">What is XML</a></div>
+</div>
+
+<div class="linklist linklist relinfo"><strong>Related information</strong><br />
+<ul class="linklist">
+<li class="linklist"><a class="link" href="https://schema.org/Language" target="_blank">https://schema.org/Language</a></li>
+<li class="linklist"><a class="link" href="https://www.sciencedirect.com/topics/computer-science/schema-language" target="_blank">https://www.sciencedirect.com/topics/computer-science/schema-language</a></li></ul></div>
+</div>
+</body>
+</html>
